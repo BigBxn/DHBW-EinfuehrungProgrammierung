@@ -1,0 +1,3 @@
+lesen;10;stunden
+sport;5;stunden
+lernen_python;8;stunden

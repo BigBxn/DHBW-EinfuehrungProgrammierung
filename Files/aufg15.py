@@ -1,5 +1,5 @@
 eingabe = input("Eingabe: ")
-liste = {"a": 1}
+liste = {}
 
 for buchstabe in eingabe:
     if buchstabe in liste:
