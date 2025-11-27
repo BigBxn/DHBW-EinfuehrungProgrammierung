@@ -1,0 +1,3 @@
+[x] Wäsche waschen
+[ ] python lernen
+[ ] einkaufen
